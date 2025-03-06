@@ -6,3 +6,4 @@
 4.owner查看合約的擁有者，合約的擁有者設定為部屬該合約的人的小狐狸錢包address
 
 
+![image](https://github.com/user-attachments/assets/f4b10821-a305-47d0-9850-881a5800cc23)
